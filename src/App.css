@@ -1,0 +1,9 @@
+.imageList {
+  width: 100%;
+  columns: 300px 5 !important;
+  column-gap: 10px;
+}
+.imageItem {
+  width: 100%;
+  margin-bottom: 10px;
+}
